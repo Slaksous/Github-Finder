@@ -1,3 +1,5 @@
+Credits to BRad Traversy - React Front to Back Udemy Course
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
